@@ -1,11 +1,15 @@
 ---
-title: "tinghsuanchang.github.io"
+title: "Ting-Hsuan Chang"
+image: media/headshot.JPG
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: envelope
+      href: mailto::tc3255@columbia.edu
+    - icon: github
+      href: https://github.com/tinghsuan-chang
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a PhD student in Biostatistics at Columbia University, advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). My research focuses on causal inference methods -- I am currently working on 
