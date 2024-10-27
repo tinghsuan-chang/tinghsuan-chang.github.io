@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Ting-Hsuan Chang",
     "section": "",
-    "text": "I am a PhD student in Biostatistics at Columbia University, advised by Dr. Daniel Malinsky. My research focuses on causal inference methods – I am currently working on"
+    "text": "I am a third-year PhD student in Biostatistics at Columbia University, advised by Dr. Daniel Malinsky. Before this, I worked with Dr. Elizabeth Stuart and Dr. John Jackson at Johns Hopkins University, where I earned my MS in Biostatistics in 2021. I completed my BS in Psychology from National Taiwan University in 2018.\nMy research interests lie in causal inference. Broadly, I am interested in developing statistical methods for inferring causality with causal graphical models and observational (i.e., non-experimental) data.\n\nMy CV: link\nMy resume: link"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Post-selection inference for causal effects after causal discovery\nT-H. Chang, Z. Guo, and D. Malinsky\narXiv"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Complete list of publications: Google Scholar\n\nPost-selection inference for causal effects after causal discovery\nT-H Chang, Z Guo, D Malinsky\narXiv [link]\nThe importance of equity value judgments and estimator-estimand alignment in measuring disparity and identifying targets to reduce disparity\nT-H Chang, TQ Nguyen, JW Jackson\nAmerican Journal of Epidemiology [link]\nMethods for integrating trials and non-experimental data to examine treatment effect heterogeneity\nCL Brantner, T-H Chang, TQ Nguyen, H Hong, L Di Stefano, EA Stuart\nStatistical Science [link]\nOverview of methods for adjustment and applications in the social and behavioral sciences: The role of study design\nT-H Chang, EA Stuart\nIn Handbook of Matching and Weighting Adjustments for Causal Inference. Chapman and Hall/CRC [link]\nFlexible propensity score estimation strategies for clustered data in observational studies\nT-H Chang, TQ Nguyen, Y Lee, JW Jackson, EA Stuart\nStatistics in Medicine [link]\nPropensity score methods for observational studies with clustered data: A review\nT-H Chang, EA Stuart\nStatistics in Medicine [link]"
   }
 ]

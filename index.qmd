@@ -2,14 +2,28 @@
 title: "Ting-Hsuan Chang"
 image: media/headshot.JPG
 about:
-  template: jolla
+  template: trestles
   image-shape: round
-  image-width: 17em
+  image-width: 13em
   links:
     - icon: envelope
+      text: Email
       href: mailto::tc3255@columbia.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ting-hsuan-chang-7a9a09ab/ 
     - icon: github
+      text: GitHub
       href: https://github.com/tinghsuan-chang
 ---
 
-I am a PhD student in Biostatistics at Columbia University, advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). My research focuses on causal inference methods -- I am currently working on 
+
+I am a third-year PhD student in Biostatistics at Columbia University, advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). Before this, I worked with [Dr. Elizabeth Stuart](https://www.elizabethstuart.org/) and [Dr. John Jackson](https://publichealth.jhu.edu/faculty/3410/john-w-jackson) at Johns Hopkins University, where I earned my MS in Biostatistics in 2021. I completed my BS in Psychology from National Taiwan University in 2018.   
+
+My research interests lie in causal inference. Broadly, I am interested in developing statistical methods for inferring causality with causal graphical models and observational (i.e., non-experimental) data.
+
+<br/>
+
+My CV: [link](media/cv_oct2024.pdf)  
+My resume: [link](media/resume_oct2024.pdf)
+

@@ -1,0 +1,31 @@
+---
+title: "Selected Publications"
+---
+
+<br/>
+
+Complete list of publications: [Google Scholar](https://scholar.google.com/citations?user=y4w6qyEAAAAJ&hl=en&authuser=1)
+
+-   Post-selection inference for causal effects after causal discovery**\
+    T-H Chang**, Z Guo, D Malinsky\
+    arXiv \[[link](https://arxiv.org/abs/2405.06763)\]
+
+-   The importance of equity value judgments and estimator-estimand alignment in measuring disparity and identifying targets to reduce disparity**\
+    T-H Chang**, TQ Nguyen, JW Jackson\
+    *American Journal of Epidemiology* \[[link](https://academic.oup.com/aje/article-abstract/193/3/536/7343213?redirectedFrom=fulltext)\]
+
+-   Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity**\
+    **CL Brantner, **T-H Chang**, TQ Nguyen, H Hong, L Di Stefano, EA Stuart\
+    *Statistical Science* \[[link](https://projecteuclid.org/journals/statistical-science/volume-38/issue-4/Methods-for-Integrating-Trials-and-Non-experimental-Data-to-Examine/10.1214/23-STS890.full)\]
+
+-   Overview of methods for adjustment and applications in the social and behavioral sciences: The role of study design\
+    **T-H Chang**, EA Stuart\
+    In *Handbook of Matching and Weighting Adjustments for Causal Inference*. Chapman and Hall/CRC \[[link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003102670-1/overview-methods-adjustment-applications-social-behavioral-sciences-role-study-design-ting-hsuan-chang-elizabeth-stuart)\]
+
+-   Flexible propensity score estimation strategies for clustered data in observational studies\
+    **T-H Chang**, TQ Nguyen, Y Lee, JW Jackson, EA Stuart\
+    *Statistics in Medicine* \[[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9551)\]
+
+-   Propensity score methods for observational studies with clustered data: A review\
+    **T-H Chang**, EA Stuart\
+    *Statistics in Medicine* \[[link](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9437)\]
