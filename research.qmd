@@ -2,8 +2,6 @@
 title: "Selected Publications"
 ---
 
-
-
 Complete list of publications: [Google Scholar](https://scholar.google.com/citations?user=y4w6qyEAAAAJ&hl=en&authuser=1)
 
 -   Post-selection inference for causal effects after causal discovery**\

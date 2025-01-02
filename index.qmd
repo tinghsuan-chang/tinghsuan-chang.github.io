@@ -22,6 +22,6 @@ I am a third-year PhD student in Biostatistics at Columbia University, advised b
 My research focuses on causal inference methodology. Broadly, I am interested in developing statistical methods for inferring causality with causal graphical models and observational data with complex confounding structures. I am also interested in applied research within the social and behavioral sciences.
 
 My CV and resume are available here:\
-[CV](media/cv_oct2024.pdf), [Resume](media/resume_oct2024.pdf)\
+[CV](media/cv.pdf), [Resume](media/resume.pdf)\
 
 I currently live in Brooklyn, NY with my dog, Palermo.
